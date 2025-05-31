@@ -39,9 +39,7 @@
   text-decoration: none;
   color: white;
 }
-.room-name {
-  margin-bottom: 40px;
-}
+
 .chat{
   background-color: #ffffff;
   width: calc(100vw - 300px);
